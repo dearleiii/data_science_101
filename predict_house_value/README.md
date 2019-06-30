@@ -4,11 +4,15 @@ Based on https://www.kaggle.com/harlfoxem/housesalesprediction/downloads/kc_hous
 
 ##### Display the Zipcode map 
 
-##### Check out the correlation map 
-
 - Folium 
 
 - Folium Heatmap
+
+
+##### Check out the correlation map 
+
+- Dataframe: https://www.geeksforgeeks.org/python-pandas-dataframe-corr/
+
 
 
 ##### Data preprocessing 
