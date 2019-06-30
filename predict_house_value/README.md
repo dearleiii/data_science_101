@@ -6,6 +6,11 @@ Based on https://www.kaggle.com/harlfoxem/housesalesprediction/downloads/kc_hous
 
 ##### Check out the correlation map 
 
+- Folium 
+
+- Folium Heatmap
+
+
 ##### Data preprocessing 
 
 ##### Multiple Regression 
