@@ -2,18 +2,18 @@ Based on https://www.kaggle.com/harlfoxem/housesalesprediction/downloads/kc_hous
 
 ## Topics: 
 
-### Display the Zipcode map 
+##### Display the Zipcode map 
 
-### Check out the correlation map 
+##### Check out the correlation map 
 
-### Data preprocessing 
+##### Data preprocessing 
 
-### Multiple Regression 
+##### Multiple Regression 
 
-### Regularization 
+##### Regularization 
 
-### Polunomial Regression 
+##### Polunomial Regression 
 
-### KNN Regression 
+##### KNN Regression 
 
-### Evaluation Table 
+##### Evaluation Table 
